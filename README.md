@@ -23,9 +23,9 @@ Or install it yourself as:
 ## Usage
 
 
-TimeMethod is built upon the excellent gem made here [here](https://github.com/Riskified/timeasure)
+TimeMethod is built upon the excellent gem made [here](https://github.com/Riskified/timeasure)
 
-You can visit the above page for more details on usage. This version has some functionality trimmed down
+You can visit the above page for more details on usage. Only thing to change is replace occurences of ```include Timeasure``` with ```include TimeMethod```  This version has some functionality trimmed down
 and some functionality added. The focus is on development profiling of methods.
 
 It outputs two tables at the end of a request/test being run. 
