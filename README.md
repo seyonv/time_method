@@ -1,7 +1,7 @@
-# TimeMethods
+# TimeMethod
 
-Time Methods is a gem that makes it easy to see the run-time of different methods within Terminal
 
+TimeMethod is a gem that makes it easy to see the run-time of different methods within Terminal
 
 
 ## Installation
@@ -9,7 +9,7 @@ Time Methods is a gem that makes it easy to see the run-time of different method
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'time_methods'
+gem 'time_method'
 ```
 
 And then execute:
@@ -18,12 +18,12 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install time_methods
+    $ gem install time_method
 
 ## Usage
 
 
-Time Methods is built upon the excellent gem made here [here](https://github.com/Riskified/timeasure)
+TimeMethod is built upon the excellent gem made here [here](https://github.com/Riskified/timeasure)
 
 You can visit the above page for more details on usage. This version has some functionality trimmed down
 and some functionality added. The focus is on development profiling of methods.
@@ -48,6 +48,3 @@ After checking out the repo, run `bin/setup` to install dependencies. Then, run 
 
 To install this gem onto your local machine, run `bundle exec rake install`. To release a new version, update the version number in `version.rb`, and then run `bundle exec rake release`, which will create a git tag for the version, push git commits and tags, and push the `.gem` file to [rubygems.org](https://rubygems.org).
 
-## Contributing
-
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/time_methods.

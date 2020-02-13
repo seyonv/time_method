@@ -1,5 +1,5 @@
 require "bundler/setup"
-require "time_methods"
+require "time_method"
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure
