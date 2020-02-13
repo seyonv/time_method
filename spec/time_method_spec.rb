@@ -1,6 +1,6 @@
-RSpec.describe TimeMethods do
+RSpec.describe TimeMethod do
   it "has a version number" do
-    expect(TimeMethods::VERSION).not_to be nil
+    expect(TimeMethod::VERSION).not_to be nil
   end
 
   it "does something useful" do
