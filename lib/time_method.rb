@@ -68,7 +68,6 @@ module TimeMethod
       "#{base_class.time_method_name}ClassInterceptor"
     end 
 
-
     def interceptor_module_for(base_class)
       Module.new do 
         @klass_name = base_class
